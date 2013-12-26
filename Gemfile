@@ -9,6 +9,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass',branch: '3'
 
+gem 'sass-rails', '~> 3.1'
+gem 'bootstrap-sass', '~> 2.0.4.2'
+
 group :development, :test do
 	gem 'sqlite3'
 end
